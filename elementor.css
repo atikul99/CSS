@@ -1,4 +1,8 @@
 
+// Creating a horizontal website with Elementor
+
+// First need to All section height "Fit to screen" and then add a class named with "section"
+
 .elementor.elementor-13{
   width:100vh;
   height:100vw;
